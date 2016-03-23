@@ -1,13 +1,13 @@
-Ruby Natural Language Processing Resources
+Ruby 自然语言处理资源
 =======
 
-A collection of Natural Language Processing (NLP) Ruby libraries, tools and software. Suggestions and contributions are welcome.
+基于 Ruby 的自然语言处理第三方库、工具和软件集合。欢迎完善。
 
-### Categories
+### 分类
 
 * [APIs](#apis)
 * [Bitext Alignment](#bitext-alignment)
-* [Books](#books)
+* [图书](#books)
 * [Case](#case)
 * [Chatterbot](#chatterbot)
 * [Classification](#classification)
@@ -42,7 +42,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 
 ## APIs
 
-### 3rd party NLP services 
+### 3rd party NLP services
 Client libraries to various 3rd party NLP API services.
 
 * [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
