@@ -75,7 +75,7 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 * [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
 * [wit-ruby](https://github.com/modeset/wit-ruby) - Easy interface for wit.ai natural language parsing
 
-## Books
+## 图书
 
 * [Mastering Regular Expressions](http://isbn.directory/book/9780596528126) - by Jeffrey E. F. Friedl
 * [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
